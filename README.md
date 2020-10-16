@@ -28,4 +28,4 @@ Passos para execução:
  - Levantar sua aplicação Appium
  - Instalar manualmente a `gem install allure-cucumber`
  -  Executar: `bundle install`
- - Para executar a suite de teste: `rake run_acceptance[platform,@tag_test]` - sendo platform = android/ios e @tag_test = as tags definidas na feature do cucumber
+ - Para executar a suite de teste: `cucumber -t @wip PLATFORM_NAME=android ou ios`

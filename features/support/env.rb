@@ -11,11 +11,6 @@ time  = Time.new
 time = time.strftime('%d-%m-%Y')
 $logger = Logger.new("./exec-logs/exec-log-#{time}.log")
 
-AllureCucumber.configure do |c|
-  c.output_dir = './allure-results/'
-  c.clean_dir  = true
-end
-
 def load_appium_configuration(platform)
   dir = "#{Dir.pwd}/config/#{platform}/appium.txt"
   Appium.load_appium_txt file: File.expand_path(dir, __FILE__), verbose: true
