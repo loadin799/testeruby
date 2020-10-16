@@ -1,0 +1,15 @@
+# Logfile created on 2020-10-15 23:17:35 -0300 by logger.rb/66358
+I, [2020-10-15T23:17:49.749386 #11256]  INFO -- : Teste finalizado
+I, [2020-10-15T23:19:57.892014 #4996]  INFO -- : Teste finalizado
+I, [2020-10-15T23:20:13.887894 #3120]  INFO -- : Teste finalizado
+I, [2020-10-15T23:29:45.846908 #11364]  INFO -- : Teste finalizado
+I, [2020-10-15T23:30:52.662163 #7892]  INFO -- : Teste finalizado
+I, [2020-10-15T23:35:00.565157 #11940]  INFO -- : Teste finalizado
+I, [2020-10-15T23:37:51.784735 #6644]  INFO -- : Teste finalizado
+I, [2020-10-15T23:38:23.075996 #7404]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-10-15T23:38:24.135760 #7404]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-10-15T23:38:24.137248 #7404]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-10-15T23:38:24.648778 #7404]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-10-15T23:38:24.759796 #7404]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-10-15T23:38:24.760774 #7404]  INFO -- : Verificando se existe o elemento /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView usando o tipo de busca XPATH
+I, [2020-10-15T23:38:25.892172 #7404]  INFO -- : Teste finalizado
