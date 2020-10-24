@@ -1,0 +1,25 @@
+ios:
+  cadastro:
+    btn_login:
+      tipo_busca: 'ID'
+      value: 'login_button'
+    campo_email:
+      tipo_busca: 'ID'
+      value: 'login_username'
+    campo_senha:
+      tipo_busca: 'ID'
+      value: 'login_password'
+    usuario_logado:
+      tipo_busca: 'XPATH'
+      value: 'welcome_txt'
+android:
+  cadastro:
+    txt_bemvindo:
+      tipo_busca: 'ID'
+      value: 'com.example.qazando.espressotests:id/welcome_txt'
+    btn_cadastrar:
+      tipo_busca: 'ID'
+      value: 'com.example.qazando.espressotests:id/btn_sign_up_login'
+    txt_cadastro:
+      tipo_busca: 'ID'
+      value: 'com.example.qazando.espressotests:id/title_sign_up'

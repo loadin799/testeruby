@@ -1,0 +1,8 @@
+# Logfile created on 2020-10-24 14:38:25 -0300 by logger.rb/66358
+I, [2020-10-24T14:38:27.787974 #7452]  INFO -- : Teste finalizado
+I, [2020-10-24T14:39:07.908541 #6084]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/welcome_txt usando o tipo de busca ID
+I, [2020-10-24T14:39:08.209141 #6084]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-10-24T14:39:08.270605 #6084]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-10-24T14:39:08.379955 #6084]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-10-24T14:39:08.381329 #6084]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/title_sign_up usando o tipo de busca ID
+I, [2020-10-24T14:39:10.109743 #6084]  INFO -- : Teste finalizado
