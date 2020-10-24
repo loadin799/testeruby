@@ -27,5 +27,7 @@ Passos para execução:
  - Conectar seu Android ou IOS previamente configurado no Appium
  - Levantar sua aplicação Appium
  - Instalar manualmente a `gem install allure-cucumber`
- -  Executar: `bundle install`
+ - Executar: `bundle install`
  - Para executar a suite de teste: `cucumber -t @wip PLATFORM_NAME=android ou ios`
+Para windows VSCode:
+ - Para executar a suite de teste: `cucumber -t@wip PLATFORM_NAME=android ou ios`
