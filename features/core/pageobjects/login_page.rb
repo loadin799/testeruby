@@ -25,5 +25,9 @@ class LoginPage
     click @mappings['btn_login']
   end
 
+  def escrever_email2(text)
+    fill_in @mappings['campo_email'], (text)
+  end
+
 
 end

@@ -19,3 +19,7 @@ end
 Então(/^vai ser apresentado a próxima tela$/) do
   @login.validar_user_logado
 end
+
+Dado('que eu escreva o email {string}') do |text|
+  @login.escrever_email2 text
+end
